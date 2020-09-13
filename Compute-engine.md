@@ -38,7 +38,7 @@ Then I will be creating a firewall rule which allows the incoming traffic of an 
 
 Use the arrow keys to move the cursor just below the h1 header add text like this and replace YOUR_NAME with your name:
 
-```Hi from YOUR_NAME``` 
+Hi from YOUR_NAME
 
 	-Close the nano text editor.
 
