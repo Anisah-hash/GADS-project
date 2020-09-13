@@ -42,10 +42,10 @@ Use the arrow keys to move the cursor just below the h1 header add text like thi
 
 	-Close the nano text editor.
 
-	* Confirm that the web server is serving your new page at the command prompt on my-vm-1 execute the following command*
+	* Confirm that the web server is serving your new page at the command prompt on my-vm-1 execute the following command
 
 		```Curl http ://localhost/```
-		* The result will be the HTML source of the web server’s home page, including your line of custom text.*
+		* The result will be the HTML source of the web server’s home page, including your line of custom text.
 
 	* To exit the command prompt on my-vm-1 execute:
 		```Exit```
