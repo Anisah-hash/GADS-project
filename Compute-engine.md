@@ -1,6 +1,6 @@
 ## LAB: Google cloud fundamentals : Getting started with compute Engines.
 
-## #Objectives: 
+### Objectives: 
 In this lab you will learn how to perform the following tasks;
 Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) console.
 Create a Compute Engine virtual machine using the gcloud command line interface.
