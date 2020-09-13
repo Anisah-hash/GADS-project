@@ -47,8 +47,8 @@ Use the arrow keys to move the cursor just below the h1 header add text like thi
 		```Curl http ://localhost/```
 		* The result will be the HTML source of the web server’s home page, including your line of custom text.*
 
-	-To exit the command prompt on my-vm-1 execute:
-		Exit
+	* To exit the command prompt on my-vm-1 execute:
+		```Exit```
 			
 			* To confirm that my-vm-2 can reach the web server on my-vm-1 at the command prompt on my-vm-2, execute this command:
 				
