@@ -1,6 +1,6 @@
-##LAB: Google cloud fundamentals : Getting started with compute Engines.
+## LAB: Google cloud fundamentals : Getting started with compute Engines.
 
-###Objectives: 
+## #Objectives: 
 In this lab you will learn how to perform the following tasks;
 Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) console.
 Create a Compute Engine virtual machine using the gcloud command line interface.
@@ -38,22 +38,22 @@ Then I will be creating a firewall rule which allows the incoming traffic of an 
 
 Use the arrow keys to move the cursor just below the h1 header add text like this and replace YOUR_NAME with your name:
 
-Hi from YOUR_NAME 
+```Hi from YOUR_NAME``` 
 
 	-Close the nano text editor.
 
 	-Confirm that the web server is serving your new page at the command prompt on my-vm-1 execute the following command:
 
 		```Curl http ://localhost/```
-		*The result will be the HTML source of the web server’s home page, including your line of custom text.
+		-The result will be the HTML source of the web server’s home page, including your line of custom text.
 
 	-To exit the command prompt on my-vm-1 execute:
-		```Exit```
+		Exit
 			
 			-To confirm that my-vm-2 can reach the web server on my-vm-1 at the command prompt on my-vm-2, execute this command:
 				
 				```Curl http ://my-vm-1/```
-				*The result will be the HTML source of the web server’s home page,including your line of custom text.
+				-The result will be the HTML source of the web server’s home page,including your line of custom text.
 
 			-Copy the External IP address of my-vm-1 and paste it to the address bar of a new browser tab.
 				```Gcloud compute instances list --zone us-central1-a```
